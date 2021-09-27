@@ -1,0 +1,28 @@
+div{
+    width:200px;
+    height:200px;
+    
+}
+#one{
+    background-color:#ffcdb2;
+    border-width:5px;
+    border-color:black;
+    border-style:solid;
+    box-sizing:border-box;
+    margin:50px;
+    
+}
+#two{
+    background-color:#6d6875; 
+    border:5px dashed black;
+    margin:50px;
+}
+#three{
+    background-color:#e5989b;
+    border:5px solid black;
+    margin:50px;
+}
+button{
+   padding:10px;
+
+}

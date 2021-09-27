@@ -1,0 +1,69 @@
+/* *{
+    background-color:lightslategrey;
+
+} */
+/* universal selector */
+body{
+    background-color:#caf0f8;   
+}
+/* element selector */
+button{
+    font-size:30px;
+    background-color:#0077b6;
+}
+/* element selector */
+h1,h2{
+    color:#2a9d8f;
+}
+#signup{
+    background-color:#e63946;
+}
+/* id selectot */
+span{
+    color:#264653;
+}
+.tag
+{
+    background-color:#f4a261;
+}
+/* class selector */
+/* input+button
+{
+    background-color:#6d597a;
+} */
+h2+button{
+    background-color:#80ed99;
+}
+/* adjacent selector */
+footer>a{
+    color:#ff6b6b;
+}
+/* direct child selector */
+
+/* attribure selector */
+input[type="password"]
+{
+    color:darkslateblue;
+}
+/* pseudo class */
+.post button:hover{
+    background-color:red;
+}
+
+.post button:active{
+    background-color:#0081a7;
+}
+.post:nth-of-type(3n){
+    background-color:#fdfcdc;
+}
+/* Pseudo elements */
+h2::first-letter{
+    font-size:50px;
+
+}
+p::first-line{
+    color:purple;
+}
+::selection{
+    background-color:rgb(205, 50, 50);
+}

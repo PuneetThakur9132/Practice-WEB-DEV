@@ -1,0 +1,12 @@
+img{
+    width:30%;
+    margin:1.6666% ;
+}
+nav{
+    text-transform: uppercase;
+    width:30%;
+    border-bottom:2px solid #f1f1f1;
+    margin-left:1.6666%;
+    padding:20px 0;
+    font-family:'Anton', sans-serif;
+}

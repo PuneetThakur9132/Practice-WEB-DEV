@@ -1,0 +1,16 @@
+body{
+
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    background-color:#bdb2ff;
+    align-items:center;
+}
+button{
+    padding:15px 25px;
+    background-color:#83c5be;
+    border:5px solid #3a86ff;
+}
+button:hover{
+    background-color:#006d77;
+}
